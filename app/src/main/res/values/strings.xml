@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">30 Days</string>
+        <!-- Day 1 -->
+        <string name="day_1_number">Day 1</string>
+        <string name="day_1_title">Set SMART Goals</string>
+        <string name="day_1_tip">Create goals that are Specific, Measurable, Achievable, Relevant, and Time-bound. It helps you stay focused.</string>
+
+        <!-- Day 2 -->
+        <string name="day_2_number">Day 2</string>
+        <string name="day_2_title">Prioritize Tasks</string>
+        <string name="day_2_tip">Use the Eisenhower Matrix to prioritize urgent and important tasks, so you can work smarter, not harder.</string>
+
+        <!-- Day 3 -->
+        <string name="day_3_number">Day 3</string>
+        <string name="day_3_title">Plan Your Day</string>
+        <string name="day_3_tip">Begin each day by outlining tasks. A clear schedule gives direction and boosts productivity.</string>
+
+        <!-- Day 4 -->
+        <string name="day_4_number">Day 4</string>
+        <string name="day_4_title">Practice Mindfulness</string>
+        <string name="day_4_tip">Spend 5–10 minutes meditating or practicing deep breathing to calm your mind and improve focus.</string>
+
+        <!-- Day 5 -->
+        <string name="day_5_number">Day 5</string>
+        <string name="day_5_title">Break Big Tasks into Smaller Steps</string>
+        <string name="day_5_tip">When a task feels overwhelming, divide it into smaller, manageable chunks.</string>
+
+        <!-- Day 6 -->
+        <string name="day_6_number">Day 6</string>
+        <string name="day_6_title">Use the Pomodoro Technique</string>
+        <string name="day_6_tip">Work in short, focused intervals (e.g., 25 minutes) followed by short breaks to maintain energy.</string>
+
+        <!-- Day 7 -->
+        <string name="day_7_number">Day 7</string>
+        <string name="day_7_title">Declutter Your Space</string>
+        <string name="day_7_tip">A tidy environment leads to a clearer mind. Remove distractions from your workspace.</string>
+
+        <!-- Day 8 -->
+        <string name="day_8_number">Day 8</string>
+        <string name="day_8_title">Learn Something New</string>
+        <string name="day_8_tip">Spend 15 minutes each day learning a new skill, hobby, or fact to stimulate your brain.</string>
+
+        <!-- Day 9 -->
+        <string name="day_9_number">Day 9</string>
+        <string name="day_9_title">Stay Hydrated</string>
+        <string name="day_9_tip">Drink plenty of water throughout the day. Hydration is essential for mental clarity and energy.</string>
+
+        <!-- Day 10 -->
+        <string name="day_10_number">Day 10</string>
+        <string name="day_10_title">Reflect on Your Progress</string>
+        <string name="day_10_tip">Take 10 minutes at the end of each day to review what you’ve achieved and where you can improve.</string>
+
+        <!-- Day 11 -->
+        <string name="day_11_number">Day 11</string>
+        <string name="day_11_title">Batch Similar Tasks</string>
+        <string name="day_11_tip">Group similar tasks together to avoid task-switching, which reduces efficiency.</string>
+
+        <!-- Day 12 -->
+        <string name="day_12_number">Day 12</string>
+        <string name="day_12_title">Eliminate Time Wasters</string>
+        <string name="day_12_tip">Identify activities that waste time (e.g., excessive social media scrolling) and limit them.</string>
+
+        <!-- Day 13 -->
+        <string name="day_13_number">Day 13</string>
+        <string name="day_13_title">Practice Gratitude</string>
+        <string name="day_13_tip">Write down 3 things you’re grateful for each day. Gratitude boosts happiness and positivity.</string>
+
+        <!-- Day 14 -->
+        <string name="day_14_number">Day 14</string>
+        <string name="day_14_title">Set Boundaries</string>
+        <string name="day_14_tip">Learn to say “no” to things that don’t align with your goals or priorities.</string>
+
+        <!-- Day 15 -->
+        <string name="day_15_number">Day 15</string>
+        <string name="day_15_title">Get Enough Sleep</string>
+        <string name="day_15_tip">Aim for 7–8 hours of sleep each night to maintain optimal health and cognitive function.</string>
+
+        <!-- Day 16 -->
+        <string name="day_16_number">Day 16</string>
+        <string name="day_16_title">Automate Routine Tasks</string>
+        <string name="day_16_tip">Use technology to automate repetitive tasks, such as bill payments or emails, to save time.</string>
+
+        <!-- Day 17 -->
+        <string name="day_17_number">Day 17</string>
+        <string name="day_17_title">Exercise Daily</string>
+        <string name="day_17_tip">Physical activity enhances focus, mood, and energy. Aim for at least 20–30 minutes of movement daily.</string>
+
+        <!-- Day 18 -->
+        <string name="day_18_number">Day 18</string>
+        <string name="day_18_title">Practice the “2-Minute Rule”</string>
+        <string name="day_18_tip">If a task takes less than 2 minutes, do it immediately rather than putting it off.</string>
+
+        <!-- Day 19 -->
+        <string name="day_19_number">Day 19</string>
+        <string name="day_19_title">Review Your Goals Weekly</string>
+        <string name="day_19_tip">At the end of each week, review your goals and adjust if necessary. Track your progress.</string>
+
+        <!-- Day 20 -->
+        <string name="day_20_number">Day 20</string>
+        <string name="day_20_title">Learn to Delegate</string>
+        <string name="day_20_tip">Delegate tasks to others when possible. Focus on activities where your efforts have the most impact.</string>
+
+        <!-- Day 21 -->
+        <string name="day_21_number">Day 21</string>
+        <string name="day_21_title">Take Breaks</string>
+        <string name="day_21_tip">Step away from work periodically to rest and recharge. Breaks improve productivity in the long run.</string>
+
+        <!-- Day 22 -->
+        <string name="day_22_number">Day 22</string>
+        <string name="day_22_title">Use Affirmations</string>
+        <string name="day_22_tip">Start your day with positive affirmations to build confidence and maintain motivation.</string>
+
+        <!-- Day 23 -->
+        <string name="day_23_number">Day 23</string>
+        <string name="day_23_title">Practice Active Listening</string>
+        <string name="day_23_tip">Focus on truly understanding others when they speak. Good communication is key to success.</string>
+
+        <!-- Day 24 -->
+        <string name="day_24_number">Day 24</string>
+        <string name="day_24_title">Limit Multitasking</string>
+        <string name="day_24_tip">Work on one task at a time to maintain focus and efficiency. Multitasking reduces productivity.</string>
+
+        <!-- Day 25 -->
+        <string name="day_25_number">Day 25</string>
+        <string name="day_25_title">Reward Yourself</string>
+        <string name="day_25_tip">Celebrate small wins by rewarding yourself after completing tasks. This reinforces positive behavior.</string>
+
+        <!-- Day 26 -->
+        <string name="day_26_number">Day 26</string>
+        <string name="day_26_title">Use Visualization</string>
+        <string name="day_26_tip">Spend a few minutes visualizing your goals and the steps you’ll take to achieve them.</string>
+
+        <!-- Day 27 -->
+        <string name="day_27_number">Day 27</string>
+        <string name="day_27_title">Avoid Perfectionism</string>
+        <string name="day_27_tip">Focus on completing tasks rather than making them perfect. Perfectionism can lead to procrastination.</string>
+
+        <!-- Day 28 -->
+        <string name="day_28_number">Day 28</string>
+        <string name="day_28_title">Network and Build Relationships</string>
+        <string name="day_28_tip">Spend time connecting with others, whether in person or online. Strong relationships can open doors.</string>
+
+        <!-- Day 29 -->
+        <string name="day_29_number">Day 29</string>
+        <string name="day_29_title">Read Daily</string>
+        <string name="day_29_tip">Read at least 10–15 minutes each day. It could be an article, book, or blog to expand your knowledge.</string>
+
+        <!-- Day 30 -->
+        <string name="day_30_number">Day 30</string>
+        <string name="day_30_title">Focus on Self-Care</string>
+        <string name="day_30_tip">Dedicate time to activities that nurture your mental and physical well-being, like hobbies, relaxing, or spending time with loved ones.</string>
+
+        <string name="top_app_bar">30 Days Of Wellness</string>
+    </resources>
